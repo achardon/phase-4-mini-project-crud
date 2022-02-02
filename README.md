@@ -1,4 +1,4 @@
-# Putting it All Together: Rails CRUD
+Putting it All Together: Rails CRUD
 
 ## Learning Goals
 
