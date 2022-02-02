@@ -1,5 +1,6 @@
 # Putting it All Together: Rails CRUD
 Goldie added as collaborator :)
+
 ## Learning Goals
 
 - Generate an API that follows REST conventions
